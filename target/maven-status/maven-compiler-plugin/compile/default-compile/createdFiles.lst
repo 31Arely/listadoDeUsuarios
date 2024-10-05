@@ -1,0 +1,6 @@
+igsw\uaz\sgg\servicio\UsuarioServiceImp.class
+igsw\uaz\sgg\domain\Usuario.class
+igsw\uaz\sgg\web\UsuarioServlet.class
+igsw\uaz\sgg\servicio\UsuarioService.class
+igsw\uaz\sgg\web\JAXRSConfiguration.class
+igsw\uaz\sgg\web\resources\JavaEE8Resource.class
